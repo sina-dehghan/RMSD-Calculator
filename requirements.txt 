@@ -1,0 +1,6 @@
+# Required Python packages for RMSD Calculator
+# Install with: pip install -r requirements.txt
+
+rdkit>=2022.9.1
+pandas>=1.5.0
+numpy>=1.23.0

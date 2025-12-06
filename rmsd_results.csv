@@ -1,0 +1,23 @@
+Type,Structure_ID,Label,RMSD (Å)
+Conformer,1,Conformer_1,2.442
+Conformer,2,Conformer_2,1.232
+Conformer,3,Conformer_3,2.234
+Conformer,4,Conformer_4,2.644
+Conformer,5,Conformer_5,2.346
+Conformer,6,Conformer_6,2.757
+Conformer,7,Conformer_7,2.918
+Conformer,8,Conformer_8,3.033
+Conformer,9,Conformer_9,2.451
+Conformer,10,Conformer_10,0.99
+Conformer,11,Conformer_11,2.537
+Conformer,12,Conformer_12,0.687
+Docking_Pose,1,DockingPose_1,1.894
+Docking_Pose,2,DockingPose_2,2.429
+Docking_Pose,3,DockingPose_3,2.65
+Docking_Pose,4,DockingPose_4,1.925
+Docking_Pose,5,DockingPose_5,0.867
+Docking_Pose,6,DockingPose_6,1.991
+Docking_Pose,7,DockingPose_7,2.509
+Docking_Pose,8,DockingPose_8,2.15
+Docking_Pose,9,DockingPose_9,1.691
+Docking_Pose,10,DockingPose_10,1.623
