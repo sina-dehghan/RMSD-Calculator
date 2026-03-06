@@ -1,0 +1,11 @@
+Comparison,Type,Structure_ID,Label,RMSD (Å),Atoms_Used
+Custom,Target,1,Target_1,1.172,6
+Custom,Target,2,Target_2,1.175,6
+Custom,Target,3,Target_3,1.159,6
+Custom,Target,4,Target_4,1.173,6
+Custom,Target,5,Target_5,1.173,6
+Custom,Target,6,Target_6,1.17,6
+Custom,Target,7,Target_7,1.172,6
+Custom,Target,8,Target_8,1.177,6
+Custom,Target,9,Target_9,1.165,6
+Custom,Target,10,Target_10,1.174,6
